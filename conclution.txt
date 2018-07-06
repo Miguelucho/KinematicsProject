@@ -1,0 +1,12 @@
+Conclution
+Add the matrices of each link that I needed. 
+And I studied the part of the code of the IK 
+and I could not solve the problem but if you 
+tell me that the arm if you take the can in 
+the image Prub.png the can that is standing 
+on the floor was taken by the arm. Conclution, 
+I think the error I have is because of my 
+personal computer that does not have the 
+resources to support this simulation. In the 
+folder misc_images the image Prub2.png shows 
+errors obtained during the simulation.
