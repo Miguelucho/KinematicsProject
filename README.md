@@ -1,5 +1,5 @@
 # KinematicsProject
-Robotic arm - Pick &amp; Place
+Robotic arm - Pick &amp; Place: Configuration and programming of a robotic arm and grippers to take objects from a shelf with nine drawers and deposit the object in a basket.
 
 ## Project: Kinematics Pick & Place
 ---
